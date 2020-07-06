@@ -1,2 +1,2 @@
 # entropy-classifier
-A decision tree classifer 
+A decision tree classifier 
